@@ -3,3 +3,4 @@ Siga as instruções:
 Isso é uma alteração
 Gravando mudanças
 Outra mudança
+Comando pull
